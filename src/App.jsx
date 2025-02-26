@@ -1,7 +1,15 @@
-// src/App.jsx
+import './App.css'
+
+import { useState, useEffect } from "react";
+import TrackList from '../components/TrackList';
 
 const App = () => {
-  return <h1>Hello world!</h1>;
+
+	return (
+		<>
+    <t
+		</>
+	);
 };
 
 export default App;
